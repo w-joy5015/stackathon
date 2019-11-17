@@ -47,7 +47,7 @@ class NewPost extends React.Component {
         <label htmlFor="pain">Pain Scale (required)</label>
         <p>
           On a scale of 0-10 (10 being the worst pain you have experienced and 0
-          being no pain) rate your pain level since you'be started using your
+          being no pain) rate your pain level since you've started using your
           device.
         </p>
         <select
